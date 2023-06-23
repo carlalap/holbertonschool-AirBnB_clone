@@ -87,6 +87,8 @@
   </div>
 </div>
 
+  <h2 class="gap">Tasks</h2>
+
 <div data-role="task20282" data-position="77" id="task-num-0">
       <div class="panel panel-default task-card " id="task-20282">
   <span id="user_id" data-id="6138"></span>
