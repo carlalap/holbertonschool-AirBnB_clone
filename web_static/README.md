@@ -87,3 +87,67 @@
   </div>
 </div>
 
+<div data-role="task20282" data-position="77" id="task-num-0">
+      <div class="panel panel-default task-card " id="task-20282">
+  <span id="user_id" data-id="6138"></span>
+
+  <div class="panel-heading panel-heading-actions">
+    <h3 class="panel-title">
+      0. Inline styling
+    </h3>
+
+    <div>
+        <span class="label label-info">
+          mandatory
+        </span>
+    </div>
+  </div>
+
+  <div class="panel-body">
+    <span id="user_id" data-id="6138"></span>
+
+    <!-- Progress vs Score -->
+
+    <!-- Task Body -->
+    <p>Write an HTML page that displays a header and a footer.</p>
+
+<p>Layout:</p>
+
+<ul>
+<li>Body:
+
+<ul>
+<li>no margin</li>
+<li>no padding</li>
+</ul></li>
+<li>Header:
+
+<ul>
+<li>color #FF0000 (red)</li>
+<li>height: 70px</li>
+<li>width: 100%</li>
+</ul></li>
+<li>Footer:
+
+<ul>
+<li>color #00FF00 (green)</li>
+<li>height: 60px</li>
+<li>width: 100%</li>
+<li>text <code>Holberton School</code> center vertically and horizontally</li>
+<li>always at the bottom at the page</li>
+</ul></li>
+</ul>
+
+<p>Requirements:</p>
+
+<ul>
+<li>You must use the <code>header</code> and <code>footer</code> tags</li>
+<li>You are not allowed to import any files</li>
+<li>You are not allowed to use the <code>style</code> tag in the <code>head</code> tag</li>
+<li>Use inline styling for all your tags</li>
+</ul>
+
+<p><img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/9/939d6b9448e63776610d05d2226aa8985209ee4d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230623%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230623T143854Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f94fb184ca905ebc465a6f1509d4307ee11fb1a58589da76855d84f9654968ec" alt="" loading='lazy' style="" /></p>
+
+  </div>
+
