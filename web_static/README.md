@@ -87,6 +87,11 @@
   </div>
 </div>
 
+<h2>Result</h2>
+
+![last_result](images/Last_result.png)
+
+
   <h2 class="gap">Tasks</h2>
 
 <div data-role="task20282" data-position="77" id="task-num-0">
@@ -717,9 +722,5 @@
 </ul>
 
 <img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/9/f47a405fccad371100ff9665dae9b3a84a471e62.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230623%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230623T143854Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=31e1cf55aef97117efacfde3b66609d3d8f0d6de3509bbc791786c42d3e5a939" alt="" loading='lazy' style="" />
-
-<h3>Result</h3>
-
-![last_result](images/Last_result.png)
 
 </div>
